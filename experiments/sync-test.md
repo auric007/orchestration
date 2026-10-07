@@ -24,3 +24,9 @@ Save the note and let the laptop automation commit and push it. Once that
 commit reaches GitHub main, the server service should pull it on its next
 successful cycle (approximately one minute). The return trip is not verified
 until the edited line appears on the server.
+
+## Mac background sync verification
+
+- Verification edit saved on the Mac at 2026-10-07 18:33:37 IST.
+- Purpose: verify that the scheduled company notes job uploads this saved Markdown without a manual Git command.
+- No experiment was launched.
