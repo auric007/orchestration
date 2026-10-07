@@ -14,7 +14,7 @@ in Obsidian.
 
 ## Laptop to server
 
-Laptop response: PENDING
+Laptop response: Hello from Obsidian — saved on my laptop.
 
 On your laptop, replace the line above with:
 
