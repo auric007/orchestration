@@ -1,0 +1,31 @@
+{
+  "migration_date_Asia_Kolkata": "2026-10-08",
+  "source_commit": "6a867df6281431cf713d3af66b079065e449d3b5",
+  "note": "Historical file bytes preserved; old inline paths describe the setup at the time. See current README for new paths.",
+  "files": [
+    {
+      "source": "experiments/README.md",
+      "destination": "experiment_OPS/legacy/experiments/README.md",
+      "sha256": "a665c7ddb6ffee939f7841f590a588578ed4502641f5b2cfff8520de6af246ba",
+      "bytes": 1164
+    },
+    {
+      "source": "experiments/2026-10-08.md",
+      "destination": "experiment_OPS/2026/2026-10/week-2026-10-04/daily/2026-10-08.md",
+      "sha256": "5368f8a34cf86f4c571ddc63e5dbb85633039347dcfaa2ab29aa6589ad9449eb",
+      "bytes": 2335
+    },
+    {
+      "source": "experiments/2026-10-07.md",
+      "destination": "experiment_OPS/2026/2026-10/week-2026-10-04/daily/2026-10-07.md",
+      "sha256": "2d0eb2e8c6346a3bfacf6a325ee0eb714385b2cc1573b6fca629ebfa7f2ee9e5",
+      "bytes": 3952
+    },
+    {
+      "source": "experiments/sync-test.md",
+      "destination": "experiment_OPS/legacy/experiments/sync-test.md",
+      "sha256": "7950958860391734582ddf24cbb5bc22186504ea2a72de48dcbcccff14f6452f",
+      "bytes": 1175
+    }
+  ]
+}
