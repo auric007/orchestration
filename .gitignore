@@ -1,4 +1,4 @@
 # This root repository publishes only the research notebook recursively.
 /*
-!/experiment_OPS/
-!/experiment_OPS/**
+!/experiment_obs/
+!/experiment_obs/**
